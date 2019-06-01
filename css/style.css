@@ -238,31 +238,31 @@ header .intro-text {
 	margin: 15px 0 30px;
 }
 /* Menu Section */
-#restaurant-menu {
+#menu {
 	padding: 0 0 60px 0;
 }
-#restaurant-menu .section-title {
+#menu .section-title {
 	background: #444 url(../img/Location.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
-#restaurant-menu .section-title h2 {
+#menu .section-title h2 {
 	color: #fff;
 }
-#restaurant-menu img {
+#menu img {
 	width: 300px;
 	box-shadow: 15px 0 #a7c44c;
 }
-#restaurant-menu h3 {
+#menu h3 {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#restaurant-menu .menu-section hr {
+#menu .menu-section hr {
 	margin: 0 auto;
 }
-#restaurant-menu .menu-section {
+#menu .menu-section {
 	margin: 0 20px 80px;
 }
-#restaurant-menu .menu-section-title {
+#menu .menu-section-title {
 	font-size: 26px;
 	display: block;
 	font-weight: 500;
@@ -270,21 +270,21 @@ header .intro-text {
 	margin: 20px 0;
 	text-align: center;
 }
-#restaurant-menu .menu-item {
+#menu .menu-item {
 	margin: 35px 0;
 	font-size: 18px;
 }
-#restaurant-menu .menu-item-name {
+#menu .menu-item-name {
 	font-weight: 600;
 	font-size: 17px;
 	color: #555;
 	border-bottom: 2px dotted rgb(213, 213, 213);
 }
-#restaurant-menu .menu-item-description {
+#menu .menu-item-description {
 	font-style: italic;
 	font-size: 15px;
 }
-#restaurant-menu .menu-item-price {
+#menu .menu-item-price {
 	float: right;
 	font-weight: 600;
 	color: #555;
