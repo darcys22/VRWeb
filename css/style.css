@@ -2,7 +2,7 @@ body, html {
 	font-family: 'Raleway', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #777;
+	color: #000;
 	font-weight: 300;
 	width: 100% !important;
 	height: 100% !important;
@@ -29,6 +29,34 @@ h5 {
 	text-transform: uppercase;
 	font-weight: 700;
 	line-height: 20px;
+}
+table.center {
+	margin-left:auto;
+	margin-right:auto;
+}
+table.imggal {
+	width:80%;
+  height: auto;
+}
+#biglogo {
+width 150px
+}
+
+h2.center {
+	text-align: center;
+}
+
+th, td {
+	border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: center;
+	color: #fff;
+	font-weight: 500;
+}
+#tabeexplain {
+	text-align: center;
+	color: #fff;
+	font-weight: 500;
 }
 p {
 	font-size: 16px;
@@ -99,11 +127,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Dancing Script', cursive;
-	font-size: 36px;
-	color: #8eb640;
-	font-weight: 700;
-	letter-spacing: 1px;
+padding-bottom 10px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
@@ -186,7 +210,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Rajdhani', sans-serif;
 	color: #fff;
 	font-size: 10em;
 	font-weight: 700;
@@ -249,8 +273,13 @@ header .intro-text {
 	color: #fff;
 }
 #menu img {
-	width: 300px;
-	box-shadow: 15px 0 #a7c44c;
+	padding-left: 20px;
+	display: inline;
+	width: 105px;
+	vertical-align: top;
+	padding-bottom: 5px;
+	margin-bottom: bottom: 10px;
+
 }
 #menu h3 {
 	padding: 10px 0;
